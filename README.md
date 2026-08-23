@@ -41,10 +41,25 @@ The project uses Exploratory Data Analysis (EDA), RFM Analysis, and K-Means Clus
 
 ## Dataset
 
-The project uses the Online Retail dataset.
-The dataset is provided in CSV format as `Online_Retail.csv`.
-The notebook loads the dataset using:<img width="1980" height="1499" alt="ecommerce_customer_segmentation_dashboard-checkpoint" src="https://github.com/user-attachments/assets/3f12f757-badf-4030-9454-729e66ad0e6f" />
-<img width="1980" height="1499" alt="ecommerce_customer_segmentation_dashboard-checkpoint" src="https://github.com/user-attachments/assets/09e3034c-698a-47fc-8ea1-625c3aa840c2" />
+This project uses the Online Retail dataset for analysis.
+
+The original dataset is not included in this repository because of its large file size.
+
+The dataset was used locally for data cleaning, exploratory data analysis,
+RFM analysis, and K-Means customer segmentation.
+
+### Dataset Columns
+
+The dataset contains the following columns:
+
+- InvoiceNo
+- StockCode
+- Description
+- Quantity
+- InvoiceDate
+- UnitPrice
+- CustomerID
+- Country
 
 
 ## Key Results
