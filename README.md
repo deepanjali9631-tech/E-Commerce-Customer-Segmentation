@@ -98,4 +98,4 @@ These insights can support customer retention, targeted marketing, re-engagement
 
 ## Author
 
-[Your Name]
+[Deepanjali Kumari]
